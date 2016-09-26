@@ -1,4 +1,7 @@
-Week 1
+---
+layout: post
+title: Week 1
+---
 
 The first week of Metis Data Science Bootcamp was definitely an eye-opener! Having not been living in the Bay Area since high school, it was definitely a change from what I was used to. Aside from the t-shirts, backpacks, and laptops everywhere, the pure interest and level of technological prowess was astounding. Even the ads at the train station were regarding machine learning.
 
